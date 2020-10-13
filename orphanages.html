@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Localize um orfanato | Happy</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
+
+    <link rel="icon" href="./public/images/logo-icon.png" />
+
+    <link rel="stylesheet" href="./public/css/main.css" />
+    <link rel="stylesheet" href="./public/css/animations.css" />
+    <link rel="stylesheet" href="./public/css/page-orphanages.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="page-orphanages">
+      <aside class="animate-right">
+        <header>
+            <button>
+                <img src="./public/images/map-marker.svg" onclick="location.href='index.html'" alt="Happy" />
+            </button>
+          <h2>Escolha um orfanato no mapa</h2>
+
+          <p>Muitas crianças estão esperando sua visita :)</p>
+        </header>
+
+        <footer>
+          <strong>Rio do Sul</strong>
+          <p>Santa Catarina</p>
+        </footer>
+      </aside>
+
+      <div id="mapid" class="animate-appear"></div>
+
+      <a href="create-orphanage.html" class="create-orphanage" title="Cadastre um orfanato">
+        <img src="./public/images/plus.svg" alt="Criar orfanato">
+      </a>
+    </div>
+
+    <script src="./public/scripts/page-orphanages.js"></script>
+
+  </body>
+</html>
+
+<!--
+    HTML (HyperText Markup Lenguage)
+        HyperText
+            Hipertexto (Texto que contém videos, imagens, links, dentre outros)
+
+        Markup
+            Marcação de <tags>
+
+        Lenguage
+            Linguagem
+
+    Head
+        Responsável pela configuração do documento
+
+    Body
+        Responsável pela parte visual
+
+    Lang
+        Definição do idioma trabalhado no documento
+
+    Metatags
+        Tags sem fechamento, com conteudos somente nos atributos.
+    
+    Charset
+        Conjunto de caracteres
+
+    Viewport
+        Responsável de fazer que a aplicação seja compátivel com díspositivos menores, ou seja, redimensiona e adapta a pagina para que caiba em dispositivos mobile por exemplo.
+
+    Link
+        Utilizado para adquirir links de imagens e outros
+
+    Href
+        Atributo responsável pela conexão entre caminhos absolutos ou relativos
+
+    Header
+        Cabeçalho da página
+
+    Div
+        Container sem objetivo que pode ser inserido objetos
+
+    Strong
+        Texto em negrito
+
+    P
+        Paragrafo
+
+    H
+        Serve para inserir textos indo do h1 ao h6, variando o tamanho.
+
+    Title
+        Titulo que aparece ao descansar o mouse em cima de algo.
+        
+    Css (Cascading Style Sheets)
+        Folhas de estilo em cascata e a beleza/estilo do site.
+    -->
