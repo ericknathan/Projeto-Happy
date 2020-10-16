@@ -40,5 +40,5 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week **
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-<sup>README.md baseada no projeto [Proofy](https://github.com/HigorSnt/proffy) de (HigorSnt)[https://github.com/HigorSnt].</sup>
+<sup>README.md baseada no projeto [Proofy](https://github.com/HigorSnt/proffy) de [HigorSnt](https://github.com/HigorSnt).</sup>
 <sup><br/>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), da [Rocketseat](rocketseat.com.br).</sup>
