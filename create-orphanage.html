@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adicionar um orfanato | Happy</title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""
+    />
+
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script
+      src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""
+    ></script>
+
+    <link rel="icon" href="./public/images/logo-icon.png" />
+
+    <link rel="stylesheet" href="./public/css/main.css" />
+    <link rel="stylesheet" href="./public/css/animations.css" />
+    <link rel="stylesheet" href="./public/css/sidebar.css" />
+    <link rel="stylesheet" href="./public/css/map.css" />
+    <link rel="stylesheet" href="./public/css/form.css" />
+    <link rel="stylesheet" href="./public/css/buttons.css" />
+    <link rel="stylesheet" href="./public/css/page-create-orphanage.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="page-create-orphanage">
+      <aside class="animate-right sidebar">
+        <button onclick="location.href='index.html'">
+          <img
+            href="index.html"
+            src="./public/images/map-marker.svg"
+            alt="Homepage"
+          />
+        </button>
+
+        <footer>
+          <button onclick="history.back()">
+            <img src="./public/images/arrow-back.svg" alt="Voltar" />
+          </button>
+        </footer>
+      </aside>
+
+      <main class="animate-appear with-sidebar">
+        <form action="">
+          <fieldset>
+            <legend>Dados</legend>
+
+            <div class="map-container">
+              <div id="mapid"></div>
+              <input type="hidden" name="lat">
+              <input type="hidden" name="lng">
+              <footer>
+                <a href="#" id="select-point">
+                  Clique no mapa para adicionar a localização
+                </a>
+              </footer>
+            </div>
+
+            <div class="input-block">
+              <label for="name">Nome</label>
+              <input id="name" name="name" required/>
+            </div>
+
+            <div class="input-block">
+              <label for="about"
+                >Sobre <span>Máximo de 300 caracteres</span></label
+              >
+              <textarea id="about" name="about" required></textarea>
+            </div>
+
+            <div class="input-block">
+              <label for="whatsapp">Número de Whatsapp</label>
+              <input id="whatsapp" name="whatsapp" required/>
+            </div>
+
+            <div class="input-block images">
+              <label for="images">Foto</label>
+
+              <div class="images-upload" id="images">
+
+                <div class="new-upload">
+                  <input name="images" placeholder="Cole o link da foto aqui" required/>
+                  <span onclick="deleteField(event)">
+                    <img src="./public/images/remove-file.svg" alt="Remover foto">
+                  </span>
+                </div>
+
+                
+              
+              </div>
+              <button onclick="addPhotoField()"
+              type="button">
+                <img src="./public/images/add-file.svg" alt="Nova imagem" />
+              </button>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Visitação</legend>
+
+            <div class="input-block">
+              <label for="instructions">Instruções</label>
+              <textarea id="instructions" name="instructions" required></textarea>
+            </div>
+
+            <div class="input-block">
+              <label for="opening_hours">Horário das visitas</label>
+              <input id="opening_hours" name="opening_hours" required />
+            </div>
+
+            <div class="input-block">
+              <label for="open_on_weekends">Atende fim de semana?</label>
+              <input
+                type="hidden"
+                id="open_on_weekends"
+                name="open_on_weekends"
+                value="1"
+                required
+              />
+
+              <div class="button-select">
+                <button data-value="1"
+                onclick="toggleSelect(event)" 
+                type="button" 
+                class="active">Sim</button>
+                <button data-value="0"
+                onclick="toggleSelect(event)" 
+                type="button" >Não</button>
+              </div>
+
+              <button type="submit" class="primary-button">
+                Confirmar
+              </button>
+            </div>
+          </fieldset>
+        </form>
+      </main>
+    </div>
+    <script src="./public/scripts/page-create-orphanage.js"></script>
+  </body>
+</html>
+
+<!--
+    HTML (HyperText Markup Lenguage)
+        HyperText
+            Hipertexto (Texto que contém videos, imagens, links, dentre outros)
+
+        Markup
+            Marcação de <tags>
+
+        Lenguage
+            Linguagem
+
+    Head
+        Responsável pela configuração do documento
+
+    Body
+        Responsável pela parte visual
+
+    Lang
+        Definição do idioma trabalhado no documento
+
+    Metatags
+        Tags sem fechamento, com conteudos somente nos atributos.
+    
+    Charset
+        Conjunto de caracteres
+
+    Viewport
+        Responsável de fazer que a aplicação seja compátivel com díspositivos menores, ou seja, redimensiona e adapta a pagina para que caiba em dispositivos mobile por exemplo.
+
+    Link
+        Utilizado para adquirir links de imagens e outros
+
+    Href
+        Atributo responsável pela conexão entre caminhos absolutos ou relativos
+
+    Header
+        Cabeçalho da página
+
+    Div
+        Container sem objetivo que pode ser inserido objetos
+
+    Strong
+        Texto em negrito
+
+    P
+        Paragrafo
+
+    H
+        Serve para inserir textos indo do h1 ao h6, variando o tamanho.
+
+    Title
+        Titulo que aparece ao descansar o mouse em cima de algo.
+        
+    Css (Cascading Style Sheets)
+        Folhas de estilo em cascata e a beleza/estilo do site.
+    -->
