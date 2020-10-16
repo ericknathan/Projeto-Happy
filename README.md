@@ -1,6 +1,43 @@
-# 💻 Next Level Week
+<h1 align="center">
+  <img alt="Happy" src="./.github/logo.svg" height="100px" />
+  <br>Next Level Week #3<br/>
+  JavaScript | HTML | CSS
+</h1>
 
-  Esse projeto foi desenvolvido durante 3° Edição da Semana [Next Level](https://nextlevelweek.com/), realizada pela @Rocketseat ao decorrer da semana de 12 à 18 de Outubro.
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/ProjectHappy-NLW3?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/ProjectHappy-NLW3?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/ErickNathan/ProjectHappy-NLW3?style=flat-square"> 
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
+</p>
+<p align="center">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## 🤝 Objetivos
-  Participei desse projeto com o intuito de aprender sobre novas linguagens e melhorar minhas habilidades de programação.
+<p align="center">
+  <img alt="design do projeto" width="650px" src="./.github/mockup.png" />
+<p>
+
+## :bookmark: Sobre
+
+O **Happy** é uma aplicação Desktop e Mobile feita para auxiliar a integração entre a comunidade e lares de acolhimento. Logo, esta aplicação oferece aos lares possibilidades de adicionar mais abrigos e ampliar a quantia de visitantes e pais adotivos, podendo adicionar informações como horários de atendimento, para quem é destinado, localização e instruções para visita.
+  
+Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week **, realizada pela [Rocketseat](https://rocketseat.com.br/).
+
+## :rocket: Tecnologias
+
+-  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/)
+-  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
+-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
+-  [Node.js](https://nodejs.org/en/docs/)
+-  [SQLite](https://www.sqlite.org/docs.html/)
+-  [Express](https://expressjs.com/)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+<sup>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), da [Rocketseat](rocketseat.com.br).</sup>
