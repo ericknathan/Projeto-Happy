@@ -8,6 +8,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/ProjectHappy-NLW3?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/ProjectHappy-NLW3?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/ErickNathan/ProjectHappy-NLW3?style=flat-square"> 
+  [![Run on Repl.it](https://repl.it/badge/github/ErickNathan/Projeto-Happy)](https://repl.it/github/ErickNathan/Projeto-Happy)
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
 <p align="center">
@@ -44,9 +45,6 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 - [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
 - [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
 - [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
-
-## Repl.it
-[![Run on Repl.it](https://repl.it/badge/github/ErickNathan/Projeto-Happy)](https://repl.it/github/ErickNathan/Projeto-Happy)
 
 ## :paintbrush: Layout
 
