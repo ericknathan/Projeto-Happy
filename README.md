@@ -13,6 +13,7 @@
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#paintbrush-layout">Layout no Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -34,6 +35,10 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 -  [Node.js](https://nodejs.org/en/docs/)
 -  [SQLite](https://www.sqlite.org/docs.html/)
 -  [Express](https://expressjs.com/)
+
+## :paintbrush: Layout
+
+Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file/0o6IOVcmfEhtO4ZJM7xL27/Project-Happy---NLW%233?node-id=0%3A1)
 
 ## :memo: Licença
 
