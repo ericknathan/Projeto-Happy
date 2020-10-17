@@ -8,7 +8,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/ProjectHappy-NLW3?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/ProjectHappy-NLW3?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/ErickNathan/ProjectHappy-NLW3?style=flat-square"> 
-  [![Run on Repl.it](https://repl.it/badge/github/ErickNathan/Projeto-Happy)](https://repl.it/github/ErickNathan/Projeto-Happy)
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
 </p>
 <p align="center">
@@ -16,6 +15,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-notion">Notion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#paintbrush-layout">Layout no Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#file_folder-replit">Aplicação no Repl.it</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -49,6 +49,9 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 ## :paintbrush: Layout
 
 Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file/0o6IOVcmfEhtO4ZJM7xL27/Project-Happy---NLW%233?node-id=0%3A1) feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/).
+
+## :file_folder: Replit
+Clique [aqui](https://repl.it/github/ErickNathan/Projeto-Happy) para abrir aplicação no Repl.it.
 
 ## :memo: Licença
 
