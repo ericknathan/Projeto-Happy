@@ -18,6 +18,8 @@
 
     transition: background-color .2s;
     outline: none;
+
+    text-decoration: none;
 }
 
 .primary-button:hover {
