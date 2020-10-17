@@ -13,6 +13,7 @@
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-notion">Notion</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#paintbrush-layout">Layout no Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -37,6 +38,13 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 -  [SQLite](https://www.sqlite.org/docs.html/)
 -  [Express](https://expressjs.com/)
 
+## :clipboard: Notion
+
+- [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) 🚀
+- [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
+- [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
+- [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
+
 ## :paintbrush: Layout
 
 Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file/0o6IOVcmfEhtO4ZJM7xL27/Project-Happy---NLW%233?node-id=0%3A1) feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/).
@@ -46,5 +54,6 @@ Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
+
 <sup>README.md baseada no projeto [Proofy](https://github.com/HigorSnt/proffy) de [HigorSnt](https://github.com/HigorSnt).</sup>
-<sup><br/>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), da [Rocketseat](rocketseat.com.br).</sup>
+<sup><br/>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), durante a [Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜.</sup>
