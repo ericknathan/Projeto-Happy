@@ -45,6 +45,9 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 - [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
 - [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
 
+## Repl.it
+[![Run on Repl.it](https://repl.it/badge/github/ErickNathan/Projeto-Happy)](https://repl.it/github/ErickNathan/Projeto-Happy)
+
 ## :paintbrush: Layout
 
 Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file/0o6IOVcmfEhtO4ZJM7xL27/Project-Happy---NLW%233?node-id=0%3A1) feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/).
