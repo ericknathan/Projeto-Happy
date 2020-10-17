@@ -30,6 +30,7 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 ## :rocket: Tecnologias
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/)
+-  [Handlebars](https://handlebarsjs.com/)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
 -  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
 -  [Node.js](https://nodejs.org/en/docs/)
