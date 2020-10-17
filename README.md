@@ -60,4 +60,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <sup>README.md baseada no projeto [Proofy](https://github.com/HigorSnt/proffy) de [HigorSnt](https://github.com/HigorSnt).</sup>
-<sup><br/>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), durante a [Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜.</sup>
+<sup><br/>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), durante a [**Next Level Week**](https://rocketseat.com.br/) da [**Rocketseat**](https://www.linkedin.com/school/rocketseat/about/)** 💜.</sup>
