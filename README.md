@@ -24,7 +24,7 @@
 
 O **Happy** é uma aplicação Desktop e Mobile feita para auxiliar a integração entre a comunidade e lares de acolhimento. Logo, esta aplicação oferece aos lares possibilidades de adicionar mais abrigos e ampliar a quantia de visitantes e pais adotivos, podendo adicionar informações como horários de atendimento, para quem é destinado, localização e instruções para visita.
   
-Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week **, realizada pela [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**, realizada pela [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 
