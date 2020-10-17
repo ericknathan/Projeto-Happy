@@ -23,7 +23,7 @@
 
 ## :bookmark: Sobre
 
-O **Happy** é uma aplicação Desktop e Mobile feita para auxiliar a integração entre a comunidade e lares de acolhimento. Logo, esta aplicação oferece aos lares possibilidades de adicionar mais abrigos e ampliar a quantia de visitantes e pais adotivos, podendo adicionar informações como horários de atendimento, para quem é destinado, localização e instruções para visita.
+O **Happy** é uma aplicação Desktop e Mobile feita para auxiliar a integração entre a comunidade e lares de acolhimento. Logo, esta aplicação oferece aos lares possibilidades de adicionar mais abrigos e ampliar a quantidade de visitantes e pais adotivos, podendo adicionar informações como horários de atendimento, para quem é destinado, localização e instruções para visita.
   
 Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**, realizada pela [Rocketseat](https://rocketseat.com.br/).
 
@@ -39,7 +39,7 @@ Essa aplicação foi desenvolvida durante a 3° edição da **Next Level Week**,
 
 ## :paintbrush: Layout
 
-Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file/0o6IOVcmfEhtO4ZJM7xL27/Project-Happy---NLW%233?node-id=0%3A1)
+Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file/0o6IOVcmfEhtO4ZJM7xL27/Project-Happy---NLW%233?node-id=0%3A1) feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/).
 
 ## :memo: Licença
 
